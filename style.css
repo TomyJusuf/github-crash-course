@@ -30,3 +30,6 @@ p {
   font-weight: bolder;
   margin-top: 15px;
 }
+a {
+  color: yellow;
+}
