@@ -6,3 +6,5 @@ git log /or/ git log --oneline
 git checkout < ID >
 git reverse < ID >
 git reset --hard < ID >
+git branch <name>
+git merge <name of branch>
