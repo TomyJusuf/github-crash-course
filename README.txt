@@ -13,3 +13,5 @@ git merge <name of branch> (push out second subsection branch to out main/master
 git remote add "anyname" /or/ origin (and link like:https://github.com/TomyJusuf/github-crash-course.git)==connection with GihHub repository.
 
 git push origin <name of branch> (for push on out GitHub repository ,and be live.)
+
+git pull /or/ git push + 'the repo link from GitHug if that not work automaticly'
