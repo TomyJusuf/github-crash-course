@@ -8,3 +8,4 @@ git reverse < ID >
 git reset --hard < ID >
 git branch <name>
 git merge <name of branch>
+git remote add "anyname" /or/ origin (and link like:https://github.com/TomyJusuf/github-crash-course.git)
