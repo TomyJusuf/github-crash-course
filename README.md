@@ -2,6 +2,7 @@
 
 this is a demo repository for practising Git & GitHub.
 
+```
 1.step: git init
 2.step: git add <file(s)> /or/ git add . /or/ git add /subsection
 3.step: git status (means "look if something should be commited")
@@ -17,3 +18,4 @@ this is a demo repository for practising Git & GitHub.
 13.step:git remote add "anyname" /or/ origin (and link like:https://github.com/TomyJusuf/github-crash-course.git)==connection with GihHub repository.
 14.step:git push origin <name of branch> (for push on out GitHub repository ,and be live.)
 15.step:git pull /or/ git push + 'the repo link from GitHug if that not work automaticly'
+```
